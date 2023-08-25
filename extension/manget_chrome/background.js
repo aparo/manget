@@ -7,6 +7,7 @@ supportedSitePatterns = [
     "*://www.toptruyen.live/truyen-tranh/*/*/*",
     "*://blogtruyen.vn/*/*",
     "*://blogtruyenmoi.com/*/*",
+    "*://m.blogtruyenmoi.com/*/*",
     "*://www.nettruyenmax.com/truyen-tranh/*/*",
     "*://nettruyenhd.com/truyen-tranh/*/*",
 ];
