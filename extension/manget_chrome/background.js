@@ -10,6 +10,8 @@ supportedSitePatterns = [
     "*://m.blogtruyenmoi.com/*/*",
     "*://www.nettruyenmax.com/truyen-tranh/*/*",
     "*://nettruyenhd.com/truyen-tranh/*/*",
+    "*://www.nettruyenus.com/truyen-tranh/*/*/*",
+    "*://nettruyenco.vn/truyen-tranh/*/*/*"
 ];
 
 function downloadChapter(url) {
